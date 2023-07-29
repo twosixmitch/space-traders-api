@@ -2,6 +2,6 @@
 
 Welcome!
 
-This is the repository holding the code I use during my SpaceTraders API videos on youtube ([playlist](https://www.youtube.com/playlist?list=PLxhDTi8rY7z86sgjCoI61meCpooDyz3vh)).
+This is the repository holding the code I use during my SpaceTraders API videos on youtube ([playlist](https://www.youtube.com/playlist?list=PLxhDTi8rY7z86sgjCoI61meCpooDyz3vh)). 👋
 
-👋
+![SpaceTraders-2](https://github.com/twosixmitch/space-traders-api/assets/30969017/25a0ba4b-0efc-472a-b843-8bcdeaaa9460)
